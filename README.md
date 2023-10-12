@@ -1,6 +1,6 @@
 # Projeto Museum Locator (Trigésimo primeiro projeto desenvolvido)
 
-Neste projeto implementei uma API cuja principal funcionalidade é facilitar a busca por museus baseada em sua localização. Os dados foram retirados _(desta)[http://dados.cultura.gov.br/dataset/series-historicas-cadastro-nacional-de-museus]_ série histórica.
+Neste projeto implementei uma API cuja principal funcionalidade é facilitar a busca por museus baseada em sua localização. Os dados foram retirados _[desta](http://dados.cultura.gov.br/dataset/series-historicas-cadastro-nacional-de-museus)_ série histórica.
 
 ## Habilidades desenvolvidas
 
